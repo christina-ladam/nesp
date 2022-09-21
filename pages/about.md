@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Nevada Election Survey Project
+title: About NESP
 permalink: /about/
-feature-img: "assets/img/about.jpg"
+feature-img: "assets/img/about2.jpg"
 tags:
 ---
 
