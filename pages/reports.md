@@ -7,6 +7,6 @@ feature-img: "assets/img/about2.jpg"
 
 **2022 Nevada Primary Election (May - June)**
 
-[Topline Report]("assets/NESP_Primary_Topline.pdf")
+[Topline Report](assets/NESP_Primary_Topline.pdf)
 
-[Press Release]("assets/NESP_Primary22_PressRelease.pdf")
+[Press Release](assets/NESP_Primary22_PressRelease.pdf)
