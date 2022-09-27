@@ -2,7 +2,7 @@
 layout: page
 title: About NESP
 permalink: /about/
-feature-img: "assets/img/about2.jpg"
+feature-img: "assets/img/capitol-resize.png"
 tags:
 ---
 
