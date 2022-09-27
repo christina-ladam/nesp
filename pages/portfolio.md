@@ -1,6 +1,6 @@
 --- 
 layout: page
-title : Media
+title : Media Coverage
 permalink: /media/ 
 feature-img: "assets/img/about2.jpeg"
 ---
