@@ -2,7 +2,7 @@
 layout: page
 title: Survey Reports
 permalink: /reports/
-feature-img: "assets/img/about2.jpg"
+feature-img: "assets/img/capitol-resize.png"
 ---
 
 **2022 Nevada Primary Election (May - June)**
