@@ -3,7 +3,7 @@ baseurl: "/nesp"
 url: "https://christina-ladam.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Nevada Election Survey Project                                    # site's title
+title: The Nevada Election Study Project (NESP) conducts surveys of Nevadans on their political and policy views.                                    # site's title
 description: "The Nevada Election Study Project (NESP), run by political scientists at the University of Nevada, Reno, conducts surveys of Nevadans on their political and policy views."      # used by search engines
 avatar: assets/img/nlogo.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
@@ -11,11 +11,11 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 # Header and footer text
 header_text: Nevada Election Survey Project  # Change Blog header text
 header_feature_image: assets/img/capitol-resize.png
-header_feature_image_responsive: true
-footer_text: 
+header_feature_image_responsive: false
+footer_text: ""
 
 # Blog
-excerpt: false                                          # Or "truncate" (first 250 characters), "false" to disable
+excerpt: true                                         # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: false
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
