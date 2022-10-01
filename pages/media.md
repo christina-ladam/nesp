@@ -5,7 +5,7 @@ permalink: /media/
 feature-img: "assets/img/capitol-resize.PNG"
 ---
 
-# Results from the Nevada Election Survey Project have been discussed in several media outlets:
+## Results from the Nevada Election Survey Project have been discussed in several media outlets:
 
 * KOLO 8: [Poll: Lombardo, Laxalt win primaries easily; Cortez Masto best-liked politician](https://www.kolotv.com/2022/06/05/poll-lombardo-laxalt-win-primaries-easily-cortez-maso-best-liked-politician/)
 * This Is Reno: [Election poll shows Lombardo, Laxalt lead in primary](https://thisisreno.com/2022/06/election-poll-shows-lombardo-laxalt-lead-in-primary/)
