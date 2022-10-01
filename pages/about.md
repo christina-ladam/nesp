@@ -2,7 +2,7 @@
 layout: page
 title: About NESP
 permalink: /about/
-feature-img: "assets/img/captiol-resize.PNG"
+feature-img: "assets/img/capitol-resize.PNG"
 ---
 
 The Nevada Election Survey Project (NESP), run by political scientists at the University of Nevada Reno, conducts surveys of Nevadans on their political and policy views. These studies are designed to measure Nevadans' views on candidates, general election support, attitudes towards political figures and institutions, and views on policy issues.
