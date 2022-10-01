@@ -5,7 +5,7 @@ permalink: /reports/
 feature-img: "assets/img/capitol-resize.PNG"
 ---
 
-### 2022 Nevada Primary Election (May - June)
+**2022 Nevada Primary Election (May - June)**
 
 In the spring of 2022, researchers at the NESP conducted a survey of Nevadans to assess their views on the upcoming primary election, as well as on various political issuess. You can read the results of that survey here.
 
