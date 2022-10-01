@@ -2,7 +2,7 @@
 layout: page
 title : Media Coverage
 permalink: /media/ 
-feature-img: "assets/img/capitol-resize.png"
+feature-img: "assets/img/capitol-resize.PNG"
 ---
 
 Results from the Nevada Election Survey Project have been discussed in several media outlets:
