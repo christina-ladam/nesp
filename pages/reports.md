@@ -9,6 +9,6 @@ feature-img: "assets/img/capitol-resize.PNG"
 
 In the spring of 2022, researchers at the NESP conducted a survey of Nevadans to assess their views on the upcoming primary election, as well as on various political issuess. You can read the results of that survey here.
 
-[Topline Report](assets/NESP_Primary_Topline.pdf)
+[Topline Report]([assets/NESP_Primary_Topline.pdf](https://www.dropbox.com/s/4z9yyfd29jqj8qo/NESP_Primary_Topline.pdf?dl=0))
 
-[Press Release](assets/NESP_Primary22_PressRelease.pdf)
+[Press Release]([assets/NESP_Primary22_PressRelease.pdf](https://www.dropbox.com/s/1agju1xxsb1gyfm/NESP_Primary22_PressRelease.pdf?dl=0))
