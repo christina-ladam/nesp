@@ -1,6 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/nesp"
-url: "https://christina-ladam.github.io"
+url: "nvelectionsurvey.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Nevada Election Survey Project                                    # site's title
