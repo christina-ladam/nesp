@@ -7,7 +7,7 @@ feature-img: "assets/img/capitol-resize.PNG"
 
 **2022 Nevada General Election (October)**
 
-In October of 2022, before ballots began arriving in Nevadans' mailboxes, researchers at the NESP surveyd Nevadans about their candidate preferences in the upcoming election. Additionally, we asked their opinions on ballot measures, and broader views on political figures and issues both in Nevada and the United States. You can read the results of that survey, and the associated press release, here.
+In October of 2022, before ballots began arriving in Nevadans' mailboxes, researchers at the NESP surveyed Nevadans about their candidate preferences in the upcoming election. Additionally, we asked their opinions on ballot measures, and about their broader views on political figures and issues both in Nevada and the United States. You can read the results of that survey, and the associated press release, here.
 
 [Topline Report](https://www.dropbox.com/s/8ksg6lhli95vook/NESP_General_Election_Topline_Report_2022.pdf?dl=0)
 
