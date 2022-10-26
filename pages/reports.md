@@ -11,4 +11,4 @@ In the spring of 2022, researchers at the NESP conducted a survey of Nevadans to
 
 [Topline Report](https://www.dropbox.com/s/4z9yyfd29jqj8qo/NESP_Primary_Topline.pdf?dl=0)
 
-[Press Release](https://www.dropbox.com/s/1agju1xxsb1gyfm/NESP_Primary22_PressRelease.pdf?dl=0)
+[Press Release](assets/NESP_Primary22_PressRelease.pdf)
