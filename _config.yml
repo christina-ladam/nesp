@@ -3,7 +3,7 @@ url: "nvelectionsurvey.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Nevada Election Survey Project                                    # site's title
-description: "The Nevada Election Study Project (NESP), run by political scientists at the University of Nevada, Reno, conducts surveys of Nevadans on their political and policy views."      # used by search engines
+description: "The Nevada Election Survey Project (NESP), run by political scientists at the University of Nevada, Reno, conducts surveys of Nevadans on their political and policy views."      # used by search engines
 avatar: assets/img/nlogo.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
